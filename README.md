@@ -1,7 +1,5 @@
-# Getting-Cleaning-Data-Project
-Coursera Course Peer Reviewed Project by Johns Hopkins 
 
-# Course Project
+# Project
 
 The purpose of this project is to demonstrate ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 
@@ -17,7 +15,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 # Requirements
 
-Create an R script called run_analysis.R that does the following:
+An R script called run_analysis.R has been created that does the following:
 
 1] Merges the training and the test sets to create one data set.
 2] Extracts only the measurements on the mean and standard deviation for each measurement.
